@@ -1,0 +1,13 @@
+o conjunto nao possui itens repetidos
+os objetos de um conjunto nao sao ordenados
+os objetos de um conjunto nao sao modificados, mas podemos excluir ou inserir.
+o tipo de variavel pode ser por atribuicao de um valor, por conversao de tipos , explicita e implicita
+a funcao input () faz com que o valor obtido pelo teclado seja armazenado na variavel sempre como um stra
+a funcao print permite a saida de dadosno monitor
+aula 15
+objetos de diferentes tipos, a sintaxe adotada e funcao parametros
+LISTAS: 
+listas armazenam multiplos objetos em uma unica variavel
+cada objeto tem um indice, que indica sua posicao dentro da lista
+o indice 0 refere-se ao primeiro elemento de uma lista.
+um objeto do tipo list e representado por colchetes.
